@@ -1,0 +1,34 @@
+--- 
+- :version: = 1.5.1
+  :name: highline
+- :version: ">= 2.1.2"
+  :name: authlogic
+- :version: = 1.0.4
+  :name: authlogic-oid
+- :version: = 1.5.1
+  :name: activemerchant
+- :version: = 0.1.0
+  :name: activerecord-tableless
+- :version: = 1.2.20
+  :name: less
+- :version: = 1.0.3
+  :name: stringex
+- :version: = 0.2.3
+  :name: chronic
+- :version: = 0.3.7
+  :name: whenever
+- :version: = 2.3.5
+  :name: searchlogic
+- :version: = 2.3.11
+  :name: will_paginate
+- :version: = 0.8.0
+  :name: state_machine
+- :version: = 0.3.1
+  :name: faker
+- :version: ">= 2.3.1.1"
+  :name: paperclip
+- :version: ">= 2.0.4"
+  :name: ruby-openid
+- :version: ">= 2.0.4"
+  :name: ruby-openid
+- :name: rails
