@@ -73,5 +73,5 @@
   :innodb_buffer_pool_size: 128M
   
 :ssl: 
-  :certificate_file: /home/rails/certs/fanny-m.org.crt
+  :certificate_file: /home/rails/certs/www.fanny-m.org.crt
   :certificate_key_file: /home/rails/certs/privkey.pem
