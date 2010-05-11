@@ -74,4 +74,4 @@
   
 :ssl: 
   :certificate_file: /home/rails/certs/fanny-m.org.crt
-  :certificate_key_file: /home/rails/certs/fanny-m_privatekey.pem
+  :certificate_key_file: /home/rails/certs/privkey.pem
